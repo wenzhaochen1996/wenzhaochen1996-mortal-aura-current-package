@@ -28,7 +28,6 @@ import {
   ChevronDown,
   ChevronUp,
 } from "lucide-react";
-
 const STORAGE_KEY = "mortalAuraJewelryCMS";
 const CART_KEY = "mortalAuraCart";
 const LANGUAGE_KEY = "mortalAuraLanguage";
